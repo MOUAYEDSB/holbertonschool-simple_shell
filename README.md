@@ -10,7 +10,7 @@ Shell scripts allow us to program commands in chains and have the system execute
 
 ![App Screenshot](https://camo.githubusercontent.com/55dd394eeb38fede2ba246b1eae09bc46ba4b024156d0cb972722e8471495051/68747470733a2f2f73332e65752d776573742d332e616d617a6f6e6177732e636f6d2f6862746e2e696e7472616e65742e70726f6a6563742e66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3233352f7368656c6c2e6a706567)
 
-## all functions from strings.h
+## all functions from strings.h 👍
 
 - access (man 2 access)
 - chdir (man 2 chdir)
