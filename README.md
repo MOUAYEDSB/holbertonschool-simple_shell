@@ -142,3 +142,9 @@ Simple shell 0.3 +
    Simple shell 0.4 +
 
 - Implement the env built-in, that prints the current environment.
+
+## Authors
+
+- [Mouayed sabbagh][def2]
+
+[def2]: https://github.com/MOUAYEDSB
