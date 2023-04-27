@@ -49,6 +49,12 @@ Shell scripts allow us to program commands in chains and have the system execute
 - wait4 (man 2 wait4)
 - write (man 2 write)
 
+## Compilation
+
+```bash
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+```
+
 ## Testing ⚠️
 
 - the shell should work like this in interactive mode:
@@ -148,3 +154,7 @@ Simple shell 0.3 +
 - [Mouayed sabbagh][def2]
 
 [def2]: https://github.com/MOUAYEDSB
+
+- [Zahi nacer][def2]
+
+[def2]: https://github.com/znacer99
