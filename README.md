@@ -151,9 +151,9 @@ Simple shell 0.3 +
 
 ## Authors
 
-- [Mouayed sabbagh][def2]
+- [Mouayed sabbagh][def1]
 
-[def2]: https://github.com/MOUAYEDSB
+[def1]: https://github.com/MOUAYEDSB
 
 - [Zahi nacer][def2]
 
