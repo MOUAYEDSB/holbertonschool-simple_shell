@@ -18,6 +18,11 @@ int execute_the_line(char *buuf[])
 	else
 	{
 		strcat(c, buuf[0]);
+		if (strcmp(buuf[0], "ls") == 0)
+		{
+			buuf[1] = "-1";
+			buuf[2] = NULL;
+		}
 		v = execve(c, buuf, NULL);
 	}
 	if (v == -1)
